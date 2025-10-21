@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(135deg, #a87bdf, #f3d5f2);
+  background: linear-gradient(135deg, #ceaff4, #fdfdfd);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,7 +15,7 @@ body {
 
 /* -------- Main card -------- */
 .todo-card {
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(231, 231, 231, 0.8);
   backdrop-filter: blur(12px);
   padding: 35px;
   border-radius: 20px;
